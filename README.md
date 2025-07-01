@@ -33,6 +33,38 @@ Implement and understand the **K-Nearest Neighbors (KNN)** algorithm for classif
 ## 📊 Results:
 - Achieved maximum accuracy of **95.56% at K=9**.
 - Decision boundary plot clearly visualized class regions based on two petal features.
+- the output that got from the data
+  
+K=1 | **Accuracy:** 0.9333
+**Confusion Matrix:**
+[[15  0  0]
+ [ 0 15  0]
+ [ 0  3 12]]
+
+K=3 | **Accuracy:** 0.9111
+**Confusion Matrix:**
+[[15  0  0]
+ [ 0 15  0]
+ [ 0  4 11]]
+
+K=5 | A**ccuracy:** 0.9111
+**Confusion Matrix:**
+[[15  0  0]
+ [ 0 15  0]
+ [ 0  4 11]]
+
+K=7 | **Accuracy:** 0.9333
+**Confusion Matrix:**
+[[15  0  0]
+ [ 0 15  0]
+ [ 0  3 12]]
+
+K=9 | **Accuracy:** 0.9556
+**Confusion Matrix:**
+[[15  0  0]
+ [ 0 15  0]
+ [ 0  2 13]]
+
 
 ---
 
